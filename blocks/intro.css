@@ -6,7 +6,7 @@
   color: #ffffff;
 }
 
-.intro_section {
+.intro__section {
   width: 984px;
 }
 
@@ -61,7 +61,7 @@
 }
 
 @media (max-width: 984px) {
-  .intro_section {
+  .intro__section {
     margin-left: 24px;
     margin-right: 24px;
     width: 95%;
@@ -89,7 +89,7 @@
 }
 
 @media (max-width: 425px) {
-  .intro_section {
+  .intro__section {
     margin-left: 16px;
     margin-right: 16px;
   }
