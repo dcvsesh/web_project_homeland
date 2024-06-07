@@ -29,12 +29,12 @@
   flex-direction: column;
 }
 
-.intro__quote_text {
+.intro__quote__text {
   margin: 0;
   margin-bottom: 10px;
 }
 
-.intro__quote_author {
+.intro__quote__author {
   margin: 0;
   display: flex;
   justify-content: flex-end;
@@ -105,7 +105,7 @@
     line-height: 30px;
   }
 
-  .intro__quote_author {
+  .intro__quote__author {
     line-height: 34px;
   }
 
