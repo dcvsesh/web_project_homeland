@@ -19,7 +19,7 @@
   margin-bottom: 5%;
 }
 
-.intro__quote {
+.intro-quote {
   font-family: "Inter-regular";
   font-size: 24px;
   line-height: 34px;
@@ -29,12 +29,12 @@
   flex-direction: column;
 }
 
-.intro__quote__text {
+.intro-quote__text {
   margin: 0;
   margin-bottom: 10px;
 }
 
-.intro__quote__author {
+.intro-quote__author {
   margin: 0;
   display: flex;
   justify-content: flex-end;
@@ -74,7 +74,7 @@
     margin-bottom: 8%;
   }
 
-  .intro__quote {
+  .intro-quote {
     width: 100%;
   }
 
@@ -100,12 +100,12 @@
     margin-bottom: 9%;
   }
 
-  .intro__quote {
+  .intro-quote {
     font-size: 24px;
     line-height: 30px;
   }
 
-  .intro__quote__author {
+  .intro-quote__author {
     line-height: 34px;
   }
 
