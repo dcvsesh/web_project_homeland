@@ -7,3 +7,8 @@
   font-family: "Inter-black";
   src: url(fonts/Inter-Black.woff2);
 }
+
+@font-face {
+  font-family: "Inter-semibold";
+  src: url(fonts/Inter-SemiBold.woff2);
+}
