@@ -78,8 +78,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
-  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   grid-area: place__button;
   font-family: "Inter-semibold";
   font-size: 18px;
@@ -90,7 +89,7 @@ a {
 }
 
 .place__button:hover {
-  opacity: 0.25;
+  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
 }
 
 @media (max-width: 984px) {
